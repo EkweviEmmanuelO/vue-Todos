@@ -7,8 +7,8 @@ import {RouterLink} from "vue-router";
         <nav class="container">
             <div class="branding">
                 <img src="../assets/shining-circle-purple-lighting-isolated-dark-background_1441-2396.jpg" alt="">
-                <h1>Vue Todos</h1>
-                <h3>By Ekwevi Emmanuel Okadigbo</h3>
+                <h1>Todos</h1>
+                
             </div>
             <ul class="nav-routes">
                 <RouterLink to="/">Home</RouterLink>

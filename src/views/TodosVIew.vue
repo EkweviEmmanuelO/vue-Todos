@@ -35,7 +35,7 @@ const createTodo = (todo) => {
     id:uid(),
     todo,
     isCompleted: null,
-    isEditing: null,
+    isEditing: null, 
   });
   };
 

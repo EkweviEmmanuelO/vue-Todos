@@ -26,7 +26,7 @@ defineEmits(["toggle-complete", "edit-todo", "update-todo", "delete-todo"]);
     <div class="todo-actions">
         <Icon 
         v-if="todo.isEditing"
-        icon="ph:check-circle" 
+        icon="ph:check-circle"   
         class="icon" 
         color="#41b080" 
         width="22" 
