@@ -6,7 +6,7 @@ import {RouterLink} from "vue-router";
     <header>
         <nav class="container">
             <div class="branding">
-                <img src="../assets/shining-circle-purple-lighting-isolated-dark-background_1441-2396.jpg" alt="">
+                <!-- <img src="../assets/shining-circle-purple-lighting-isolated-dark-background_1441-2396.jpg" alt=""> -->
                 <h1>Todos</h1>
                 
             </div>
