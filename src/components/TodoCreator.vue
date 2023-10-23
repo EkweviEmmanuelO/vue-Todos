@@ -59,6 +59,7 @@ const todoState= reactive({
 
     &:focus {
       outline: none;
+   
     }
   }
 

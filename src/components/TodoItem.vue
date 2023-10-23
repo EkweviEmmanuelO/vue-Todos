@@ -1,5 +1,7 @@
 <script setup>
 import { Icon } from '@iconify/vue';
+
+
 const props = defineProps({
      todo: {
         type: Object,
@@ -9,7 +11,7 @@ const props = defineProps({
         type:Number,
         required: true,
      }
-});
+}); 
 
 defineEmits(["toggle-complete", "edit-todo", "update-todo", "delete-todo"]);
 </script>
